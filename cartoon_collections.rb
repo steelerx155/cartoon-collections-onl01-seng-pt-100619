@@ -1,5 +1,5 @@
-def roll_call_dwarves(dwarves)    roll_call_dwarves# code an argument here
-  dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]   # Your code here
+def roll_call_dwarves(dwarves)    
+  dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]   
   dwarves.each_with_index(1) { |name, index| 
   dwarves[name] = index
   }
