@@ -4,14 +4,6 @@ def roll_call_dwarves(dwarves)
      puts "#{index + 1} #{dwarves}"
 end
 
-def summon_captain_planet(planteer_calls)  # code an argument here
- planteer_calls = ["earth", "wind", "fire", "water", "heart"]
- planteer_calls.collect do |call|
-  call.capitalize + "!"
-end
-  # Your code here
-end
-
 def summon_captain_planet(veggies)# code an argument here
   # Your code here
   # planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
@@ -20,11 +12,6 @@ def summon_captain_planet(veggies)# code an argument here
   end
 
 end
-
-
-
-
-
 
 def long_planeteer_calls# code an argument here
   # Your code here
