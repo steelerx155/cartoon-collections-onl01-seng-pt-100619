@@ -1,6 +1,7 @@
 def roll_call_dwarves(names)    roll_call_dwarves# code an argument here
   names = ["Doc", "Dopey", "Bashful", "Grumpy"]   # Your code here
   names.each_with_index { |name, index| }
+  names(index)
   
 end
 
