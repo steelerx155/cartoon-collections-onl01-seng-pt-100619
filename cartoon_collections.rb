@@ -23,17 +23,6 @@ end
 answer
 end
 
-def long_planteer_calls(long_planteer_calls)# code an argument here
-  # Your code here
-  answer = false
-  long_planteer_calls.each do |call|
-    if long_planteer_calls.length > 4
-      answer = true
-    end
-  end
-    answer
-end
-
   # Your code here
 end
 
