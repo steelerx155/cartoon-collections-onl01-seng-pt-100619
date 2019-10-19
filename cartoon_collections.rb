@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet(planteer_calls)  # code an argument here
  planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-planeteer_calls.collect do |call|
+ planeteer_calls.collect do |call|
   call.capitalize + "!"
 end
   # Your code here
