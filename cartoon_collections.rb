@@ -14,7 +14,8 @@ def summon_captain_planet(veggies)# code an argument here
 end
 
 def long_planeteer_calls(calls)# code an argument here
-calls = ['Apple!', 'Banana!', 'Orange!'], any? < length
+calls = ['Apple!', 'Banana!', 'Orange!']
+if lenght < 4 = true
 
 
 
