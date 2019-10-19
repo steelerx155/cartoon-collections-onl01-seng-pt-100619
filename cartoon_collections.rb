@@ -16,15 +16,12 @@ end
 def long_planeteer_calls(calls)# code an argument here
 calls = ['Apple!', 'Banana!', 'Orange!']
 answer = false
-if call.lenght > 4
+if call.lenght < 4
   answer = true 
 end 
 
 answer
 end
-
-
-
 
   # Your code here
 end
